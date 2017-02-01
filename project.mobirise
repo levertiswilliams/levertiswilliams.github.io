@@ -202,14 +202,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#a38f84",
-              "border-color": "#a38f84"
+              "background-color": "#aa3ddc",
+              "border-color": "#aa3ddc"
             }
           },
           "_name": "features7",
           "_anchor": "features7-9",
           "_params": {
-            "iconsBgColor": "#a38f84",
+            "iconsBgColor": "#aa3ddc",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
