@@ -429,11 +429,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-3 .link {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 #ext_menu-3 .dropdown-item,
 #ext_menu-3 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.758rem;
 }
 #ext_menu-3 .link:hover,
 #ext_menu-3 .dropdown-item:hover,
@@ -476,6 +476,12 @@ h6,
   color: #bcbcbc;
 }
 #features7-9 .iconbox {
-  background-color: #aa3ddc;
-  border-color: #aa3ddc;
+  background-color: #553982;
+  border-color: #553982;
+}
+#features7-9 H4 {
+  color: #ffffff;
+}
+#features7-9 P {
+  color: #c1c1c1;
 }
