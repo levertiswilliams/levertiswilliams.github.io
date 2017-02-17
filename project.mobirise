@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "photoshop",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -791,8 +791,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sights-and-sounds-of-the-60s-finished-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sights-and-sounds-of-the-60s-finished-2000x2588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/levertis-williams-antigone-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/levertis-williams-antigone-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -801,8 +801,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-levertis-williams-2000x1182-800x472.jpg",
-                "image": "@PROJECT_PATH@/assets/images/batman-logo-levertis-williams-2000x1182.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/antigognenafnhe-bh-4-2000x2588-800x1035.jpg",
+                "image": "@PROJECT_PATH@/assets/images/antigognenafnhe-bh-4-2000x2588.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -811,8 +811,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/king-kong-levertis-williams-2000x1087-800x434.jpg",
-                "image": "@PROJECT_PATH@/assets/images/king-kong-levertis-williams-2000x1087.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-6-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-6-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -821,8 +821,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/levertis-williams-blueprint-2000x1545-800x618.jpg",
-                "image": "@PROJECT_PATH@/assets/images/levertis-williams-blueprint-2000x1545.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-4-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-4-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-4-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/levertis-williams-mobirizsmnfr3w-4-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
