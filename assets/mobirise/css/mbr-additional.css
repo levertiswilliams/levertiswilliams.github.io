@@ -485,6 +485,10 @@ h6,
 #features7-9 P {
   color: #c1c1c1;
 }
+#social-buttons4-y .mbr-section-title,
+#social-buttons4-y .btn-social {
+  color: #fff;
+}
 #ext_menu-a .hide-buttons .nav-btn {
   display: none !important;
 }
